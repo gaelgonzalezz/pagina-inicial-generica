@@ -1,1 +1,3 @@
-alert("Lorem ipsum es un texto cualquiera")
+console.log("hola mundo");
+
+var numero = 5;
